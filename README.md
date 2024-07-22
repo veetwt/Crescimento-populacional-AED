@@ -6,15 +6,15 @@ O projeto foi desenvolvido por seções, com o objetivo de facilitar o entendime
  
 ##  Seções </br> </br> 
 
-<b> 1. Importação das bibliotecas
-<b> 2. Importação dataset
-<b> 3. Exploração dataset/Análise macro
-<b> 4. Análise da qualidade dos dados
-<b> 5. Análises estatísticas
+<b> 1. Importação das bibliotecas <b>
+<b> 2. Importação dataset <b>
+<b> 3. Exploração dataset/Análise macro <b>
+<b> 4. Análise da qualidade dos dados <b>
+<b> 5. Análises estatísticas <b>
 
 As conclusões foram adicionas durante as análises.
 
-Notebook completo: <a href="https://github.com/daianeklein/imersao-dados-Alura/blob/main/Analise-Educacao.ipynb"> Crescimento-populacional-AED </a></br>
+Notebook completo: <a"href=https://github.com/veetwt/Crescimento-populacional-AED/blob/main/Crescimento_Populacional.ipynb"> Crescimento-populacional-AED </a></br>
 
 ---
 
