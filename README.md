@@ -6,11 +6,11 @@ O projeto foi desenvolvido por seções, com o objetivo de facilitar o entendime
  
 ##  Seções </br> </br> 
 
-<b> 1. Importação das bibliotecas <b>
-<b> 2. Importação dataset <b>
-<b> 3. Exploração dataset/Análise macro <b>
-<b> 4. Análise da qualidade dos dados <b>
-<b> 5. Análises estatísticas <b>
+<b> 1. Importação das bibliotecas</b></br></br>
+<b> 2. Importação dataset</b></br></br>
+<b> 3. Exploração dataset/Análise macro</b></br></br>
+<b> 4. Análise da qualidade dos dados</b></br></br>
+<b> 5. Análises estatísticas</b></br></br>
 
 As conclusões foram adicionas durante as análises.
 
