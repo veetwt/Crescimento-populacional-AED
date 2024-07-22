@@ -14,7 +14,7 @@ O projeto foi desenvolvido por seções, com o objetivo de facilitar o entendime
 
 As conclusões foram adicionas durante as análises.
 
-Notebook completo: <a"href=https://github.com/veetwt/Crescimento-populacional-AED/blob/main/Crescimento_Populacional.ipynb"> Crescimento-populacional-AED </a></br>
+Notebook completo: <a href="https://github.com/veetwt/Crescimento-populacional-AED/blob/main/Crescimento_Populacional.ipynb"> Crescimento-populacional-AED </a></br>
 
 ---
 
